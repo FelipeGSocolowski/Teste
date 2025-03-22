@@ -1,2 +1,2 @@
 # Teste
-Teste de repositório / Pequeno código em C
+Teste de repositório / Pequeno programa em C
